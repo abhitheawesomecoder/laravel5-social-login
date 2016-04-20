@@ -31,7 +31,7 @@ php artisan migrate
 
 ## Usage
 
-Go to link http://localhost/laravel/auth/facebook
+Go to link http://localhost/laravel/public/auth/facebook
 
 where http://localhost/laravel/public/ is path to your laravel website
 
