@@ -21,7 +21,7 @@ Step 3 : Register the Service Provider
 
 to providers array in *config/app.php*
 
-Step 4 : Install views and migrations
+Step 4 : Install migrations
 
 run the following command: 'php artisan vendor:publish' to install migrations
 
