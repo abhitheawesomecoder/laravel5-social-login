@@ -1,0 +1,26 @@
+{
+    "name": "abhitheawesomecoder/sociallogin",
+    "description": "Package to quickly add social login to laravel 5.2 Auth Scaffold",
+     "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["laravel"],
+    "authors": [
+        {
+            "name": "Abhishek Kumar",
+            "email": "abhitheawesomecoder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+         "php": ">=5.4.0",
+         "illuminate/support": "^5.0",
+         "laravel/socialite": "2.*"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Abhitheawesomecoder\\Sociallogin\\": "src/"
+        }
+    }
+}
